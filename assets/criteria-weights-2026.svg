@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="460" viewBox="0 0 1080 460" role="img" aria-label="Весовые группы методики v0.4">
+<rect width="1080" height="460" fill="#fff"/>
+<text x="48" y="53" fill="#0E3455" font-size="29" font-weight="700">Методика v0.4 · 18 показателей</text>
+<text x="48" y="86" fill="#475569" font-size="18">Весовые группы из 100 баллов</text>
+<text x="52" y="140" fill="#1e293b" font-size="20">A. Видео по 3 темам</text>
+<rect x="420" y="120" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="120" width="481.3" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="142" fill="#0E3455" font-size="20" font-weight="700">21</text>
+<text x="52" y="190" fill="#1e293b" font-size="20">B. Наглядность</text>
+<rect x="420" y="170" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="170" width="343.8" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="192" fill="#0E3455" font-size="20" font-weight="700">15</text>
+<text x="52" y="240" fill="#1e293b" font-size="20">C. Просмотр видео</text>
+<rect x="420" y="220" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="220" width="458.3" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="242" fill="#0E3455" font-size="20" font-weight="700">20</text>
+<text x="52" y="290" fill="#1e293b" font-size="20">D. Навигация и прогресс</text>
+<rect x="420" y="270" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="270" width="320.8" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="292" fill="#0E3455" font-size="20" font-weight="700">14</text>
+<text x="52" y="340" fill="#1e293b" font-size="20">E. Закрепление знаний</text>
+<rect x="420" y="320" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="320" width="458.3" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="342" fill="#0E3455" font-size="20" font-weight="700">20</text>
+<text x="52" y="390" fill="#1e293b" font-size="20">F. Преподаватели и доступ</text>
+<rect x="420" y="370" width="550" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="420" y="370" width="229.2" height="31" rx="6" fill="#315c80"/>
+<text x="993" y="392" fill="#0E3455" font-size="20" font-weight="700">10</text>
+<text x="52" y="443" fill="#64748b" font-size="15">Вес и шкалы зафиксированы до итогового расчета</text></svg>
