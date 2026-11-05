@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this research by IndexResearch"
+title: "Онлайн-видеолектории и образовательные видеотеки по искусству, кино и литературе: рейтинг публично подтвержденных функций, 2026"
+version: "1.0.0"
+date-released: 2026-11-05
+repository-code: "https://github.com/IndexResearch-ru/online-video-lectories-russia-2026"
+url: "https://indexresearch.ru/reports/online-video-lectories-russia-2026/"
+authors:
+  - name: "IndexResearch"
+keywords:
+  - онлайн-видеолектории
+  - видеотеки
+  - история искусства
+  - кино
+  - литература
+  - исследование
