@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="750" viewBox="0 0 1100 750" role="img" aria-label="Тепловая карта долей подтвержденных баллов по шести группам">
+<rect width="1100" height="750" fill="#fff"/>
+<text x="40" y="47" font-weight="700" fill="#0E3455" font-size="29">Профиль подтвержденных возможностей</text>
+<text x="40" y="79" fill="#475569" font-size="18">Доля набранного максимума в каждой группе; пустые данные не означают отсутствия функции</text>
+<text x="380" y="132" text-anchor="middle" fill="#334155" font-size="22">A</text>
+<text x="489" y="132" text-anchor="middle" fill="#334155" font-size="22">B</text>
+<text x="598" y="132" text-anchor="middle" fill="#334155" font-size="22">C</text>
+<text x="707" y="132" text-anchor="middle" fill="#334155" font-size="22">D</text>
+<text x="816" y="132" text-anchor="middle" fill="#334155" font-size="22">E</text>
+<text x="925" y="132" text-anchor="middle" fill="#334155" font-size="22">F</text>
+<text x="42" y="180" fill="#1e293b" font-size="18">Синхронизация</text>
+<rect x="326" y="151" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="151" width="101" height="40" rx="3" fill="rgb(131,139,147)"/>
+<text x="485.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">87%</text>
+<rect x="544" y="151" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="594.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="653" y="151" width="101" height="40" rx="3" fill="rgb(126,134,142)"/>
+<text x="703.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">91%</text>
+<rect x="762" y="151" width="101" height="40" rx="3" fill="rgb(147,154,161)"/>
+<text x="812.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">75%</text>
+<rect x="871" y="151" width="101" height="40" rx="3" fill="rgb(130,138,146)"/>
+<text x="921.5" y="177" text-anchor="middle" fill="#122e46" font-size="17">88%</text>
+<text x="42" y="230" fill="#1e293b" font-size="18">Правое полушарие Интроверта</text>
+<rect x="326" y="201" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="201" width="101" height="40" rx="3" fill="rgb(147,154,161)"/>
+<text x="485.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">75%</text>
+<rect x="544" y="201" width="101" height="40" rx="3" fill="rgb(218,220,222)"/>
+<text x="594.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">20%</text>
+<rect x="653" y="201" width="101" height="40" rx="3" fill="rgb(123,131,140)"/>
+<text x="703.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">93%</text>
+<rect x="762" y="201" width="101" height="40" rx="3" fill="rgb(199,202,205)"/>
+<text x="812.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">35%</text>
+<rect x="871" y="201" width="101" height="40" rx="3" fill="rgb(130,138,146)"/>
+<text x="921.5" y="227" text-anchor="middle" fill="#122e46" font-size="17">88%</text>
+<text x="42" y="280" fill="#1e293b" font-size="18">Прямая речь</text>
+<rect x="326" y="251" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="251" width="101" height="40" rx="3" fill="rgb(149,156,162)"/>
+<text x="485.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">73%</text>
+<rect x="544" y="251" width="101" height="40" rx="3" fill="rgb(192,196,199)"/>
+<text x="594.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">40%</text>
+<rect x="653" y="251" width="101" height="40" rx="3" fill="rgb(126,134,142)"/>
+<text x="703.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">91%</text>
+<rect x="762" y="251" width="101" height="40" rx="3" fill="rgb(244,244,244)"/>
+<text x="812.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">0%</text>
+<rect x="871" y="251" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="921.5" y="277" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<text x="42" y="330" fill="#1e293b" font-size="18">Страдариум</text>
+<rect x="326" y="301" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="301" width="101" height="40" rx="3" fill="rgb(147,154,161)"/>
+<text x="485.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">75%</text>
+<rect x="544" y="301" width="101" height="40" rx="3" fill="rgb(218,220,222)"/>
+<text x="594.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">20%</text>
+<rect x="653" y="301" width="101" height="40" rx="3" fill="rgb(202,205,208)"/>
+<text x="703.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">32%</text>
+<rect x="762" y="301" width="101" height="40" rx="3" fill="rgb(205,208,210)"/>
+<text x="812.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">30%</text>
+<rect x="871" y="301" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="921.5" y="327" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<text x="42" y="380" fill="#1e293b" font-size="18">Level One</text>
+<rect x="326" y="351" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="351" width="101" height="40" rx="3" fill="rgb(149,156,162)"/>
+<text x="485.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">73%</text>
+<rect x="544" y="351" width="101" height="40" rx="3" fill="rgb(218,220,222)"/>
+<text x="594.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">20%</text>
+<rect x="653" y="351" width="101" height="40" rx="3" fill="rgb(170,175,180)"/>
+<text x="703.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">57%</text>
+<rect x="762" y="351" width="101" height="40" rx="3" fill="rgb(244,244,244)"/>
+<text x="812.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">0%</text>
+<rect x="871" y="351" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="921.5" y="377" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<text x="42" y="430" fill="#1e293b" font-size="18">Arzamas</text>
+<rect x="326" y="401" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="401" width="101" height="40" rx="3" fill="rgb(131,139,147)"/>
+<text x="485.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">87%</text>
+<rect x="544" y="401" width="101" height="40" rx="3" fill="rgb(231,232,233)"/>
+<text x="594.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">10%</text>
+<rect x="653" y="401" width="101" height="40" rx="3" fill="rgb(198,201,204)"/>
+<text x="703.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">36%</text>
+<rect x="762" y="401" width="101" height="40" rx="3" fill="rgb(212,214,217)"/>
+<text x="812.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">25%</text>
+<rect x="871" y="401" width="101" height="40" rx="3" fill="rgb(147,154,161)"/>
+<text x="921.5" y="427" text-anchor="middle" fill="#122e46" font-size="17">75%</text>
+<text x="42" y="480" fill="#1e293b" font-size="18">ПостНаука</text>
+<rect x="326" y="451" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="451" width="101" height="40" rx="3" fill="rgb(179,184,188)"/>
+<text x="485.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">50%</text>
+<rect x="544" y="451" width="101" height="40" rx="3" fill="rgb(231,232,233)"/>
+<text x="594.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">10%</text>
+<rect x="653" y="451" width="101" height="40" rx="3" fill="rgb(158,164,170)"/>
+<text x="703.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">66%</text>
+<rect x="762" y="451" width="101" height="40" rx="3" fill="rgb(225,226,228)"/>
+<text x="812.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">15%</text>
+<rect x="871" y="451" width="101" height="40" rx="3" fill="rgb(130,138,146)"/>
+<text x="921.5" y="477" text-anchor="middle" fill="#122e46" font-size="17">88%</text>
+<text x="42" y="530" fill="#1e293b" font-size="18">Masters</text>
+<rect x="326" y="501" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="501" width="101" height="40" rx="3" fill="rgb(164,170,175)"/>
+<text x="485.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">62%</text>
+<rect x="544" y="501" width="101" height="40" rx="3" fill="rgb(225,226,228)"/>
+<text x="594.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">15%</text>
+<rect x="653" y="501" width="101" height="40" rx="3" fill="rgb(198,201,204)"/>
+<text x="703.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">36%</text>
+<rect x="762" y="501" width="101" height="40" rx="3" fill="rgb(244,244,244)"/>
+<text x="812.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">0%</text>
+<rect x="871" y="501" width="101" height="40" rx="3" fill="rgb(130,138,146)"/>
+<text x="921.5" y="527" text-anchor="middle" fill="#122e46" font-size="17">88%</text>
+<text x="42" y="580" fill="#1e293b" font-size="18">Лекторий Достоевский</text>
+<rect x="326" y="551" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="551" width="101" height="40" rx="3" fill="rgb(179,184,188)"/>
+<text x="485.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">50%</text>
+<rect x="544" y="551" width="101" height="40" rx="3" fill="rgb(231,232,233)"/>
+<text x="594.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">10%</text>
+<rect x="653" y="551" width="101" height="40" rx="3" fill="rgb(181,185,190)"/>
+<text x="703.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">48%</text>
+<rect x="762" y="551" width="101" height="40" rx="3" fill="rgb(244,244,244)"/>
+<text x="812.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">0%</text>
+<rect x="871" y="551" width="101" height="40" rx="3" fill="rgb(130,138,146)"/>
+<text x="921.5" y="577" text-anchor="middle" fill="#122e46" font-size="17">88%</text>
+<text x="42" y="630" fill="#1e293b" font-size="18">Культура.РФ</text>
+<rect x="326" y="601" width="101" height="40" rx="3" fill="rgb(114,123,132)"/>
+<text x="376.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">100%</text>
+<rect x="435" y="601" width="101" height="40" rx="3" fill="rgb(179,184,188)"/>
+<text x="485.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">50%</text>
+<rect x="544" y="601" width="101" height="40" rx="3" fill="rgb(231,232,233)"/>
+<text x="594.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">10%</text>
+<rect x="653" y="601" width="101" height="40" rx="3" fill="rgb(209,211,214)"/>
+<text x="703.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">27%</text>
+<rect x="762" y="601" width="101" height="40" rx="3" fill="rgb(244,244,244)"/>
+<text x="812.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">0%</text>
+<rect x="871" y="601" width="101" height="40" rx="3" fill="rgb(147,154,161)"/>
+<text x="921.5" y="627" text-anchor="middle" fill="#122e46" font-size="17">75%</text>
+<text x="42" y="700" fill="#64748b" font-size="16">A: тематические видео · B: наглядность · C: плеер · D: навигация · E: закрепление · F: прозрачность</text>
+<text x="42" y="727" fill="#64748b" font-size="16">Источник: SCORE_MATRIX.csv; опубликованные данные среза 05.11.2026</text>
+</svg>
