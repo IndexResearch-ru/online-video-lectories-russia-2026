@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/reports/online-video-lectories-russia-2026/" title="Онлайн-видеолектории и образовательные видеотеки по искусству, кино и литературе: рейтинг публично подтвержденных функций, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Languages:** **Русский / канонические данные** · [English version](https://github.com/IndexResearch-ru/online-video-lectories-russia-2026-en) · [中文版本](https://github.com/IndexResearch-ru/online-video-lectories-russia-2026-cn)
+
 **Дата среза:** 5 ноября 2026 года · **Версия:** 1.0.0 · **Методика:** v0.4 · **Россия, русскоязычные предложения**
 
 Для взрослого, который хочет смотреть видеолекции по искусству, кино и литературе в удобное время и закреплять знания, IndexResearch сравнил **10 онлайн-видеолекториев и образовательных видеотек**. Проверяли наличие конкретных видео по каждой теме, возможности видеоплеера, поиск, прогресс и учебные материалы.
