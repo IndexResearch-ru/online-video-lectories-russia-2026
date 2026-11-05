@@ -1,0 +1,11 @@
+candidate_id,participant,confirmed_points,theoretical_upper_bound,video_admission,rank_by_confirmed_evidence
+C01,Синхронизация,90.5,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,1
+C03,Правое полушарие Интроверта,65.0,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,2
+C07,Прямая речь,62.75,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,3
+C06,Страдариум,56.75,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,4
+C02,Level One,54.0,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,5
+C04,Arzamas,53.5,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,6
+C10,ПостНаука,51.5,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,7
+C09,Masters,47.0,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,8
+C05,Лекторий Достоевский,46.0,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,9
+C11,Культура.РФ,41.75,100.0,PASS_PUBLIC_EVIDENCE_3_OF_3,10
