@@ -1,0 +1,10 @@
+{
+  "runs": 5000,
+  "seed": 20261105,
+  "method": "Six group weights multiplied by independent uniform multipliers from 0.8 to 1.2 and normalized to 100",
+  "winner": "Синхронизация",
+  "winner_retained": 5000,
+  "minimum_winner_lead_points": 21.261579,
+  "scope": "Weights robustness only, excluding uncertainty in unverified product features",
+  "source": "SENSITIVITY_5000.csv"
+}
