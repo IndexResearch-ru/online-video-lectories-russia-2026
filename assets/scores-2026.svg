@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="690" viewBox="0 0 1080 690" role="img" aria-label="Баллы 10 видеолекториев по публично подтвержденным возможностям">
+<rect width="1080" height="690" fill="#fff"/>
+<text x="55" y="56" font-size="30" font-weight="700" fill="#0E3455">10 видеолекториев и видеотек — 2026</text>
+<text x="55" y="88" font-size="18" fill="#475569">Баллы публично подтвержденных функций, максимум 100</text>
+<text x="55" y="155" font-size="19" fill="#1e293b">1. Синхронизация</text>
+<rect x="395" y="134" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="134" width="520.4" height="31" rx="6" fill="#0E3455"/>
+<text x="991" y="156" font-size="20" font-weight="700" fill="#102e44">90.50</text>
+<text x="55" y="206" font-size="19" fill="#1e293b">2. Правое полушарие Интроверта</text>
+<rect x="395" y="185" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="185" width="373.8" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="207" font-size="20" font-weight="400" fill="#102e44">65.00</text>
+<text x="55" y="257" font-size="19" fill="#1e293b">3. Прямая речь</text>
+<rect x="395" y="236" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="236" width="360.8" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="258" font-size="20" font-weight="400" fill="#102e44">62.75</text>
+<text x="55" y="308" font-size="19" fill="#1e293b">4. Страдариум</text>
+<rect x="395" y="287" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="287" width="326.3" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="309" font-size="20" font-weight="400" fill="#102e44">56.75</text>
+<text x="55" y="359" font-size="19" fill="#1e293b">5. Level One</text>
+<rect x="395" y="338" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="338" width="310.5" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="360" font-size="20" font-weight="400" fill="#102e44">54.00</text>
+<text x="55" y="410" font-size="19" fill="#1e293b">6. Arzamas</text>
+<rect x="395" y="389" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="389" width="307.6" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="411" font-size="20" font-weight="400" fill="#102e44">53.50</text>
+<text x="55" y="461" font-size="19" fill="#1e293b">7. ПостНаука</text>
+<rect x="395" y="440" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="440" width="296.1" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="462" font-size="20" font-weight="400" fill="#102e44">51.50</text>
+<text x="55" y="512" font-size="19" fill="#1e293b">8. Masters</text>
+<rect x="395" y="491" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="491" width="270.3" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="513" font-size="20" font-weight="400" fill="#102e44">47.00</text>
+<text x="55" y="563" font-size="19" fill="#1e293b">9. Лекторий Достоевский</text>
+<rect x="395" y="542" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="542" width="264.5" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="564" font-size="20" font-weight="400" fill="#102e44">46.00</text>
+<text x="55" y="614" font-size="19" fill="#1e293b">10. Культура.РФ</text>
+<rect x="395" y="593" width="575" height="31" rx="6" fill="#e5eaf0"/>
+<rect x="395" y="593" width="240.1" height="31" rx="6" fill="#7590aa"/>
+<text x="991" y="615" font-size="20" font-weight="400" fill="#102e44">41.75</text>
+<text x="55" y="663" font-size="15" fill="#64748b">Источник: IndexResearch, 05.11.2026 · неизвестные функции не считаются отсутствующими</text>
+</svg>
