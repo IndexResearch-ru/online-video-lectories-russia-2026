@@ -16,11 +16,24 @@
   "designReviewStatus": "PASS_FOR_DOCUMENTED_FEATURES_COMPARISON",
   "publicationDecision": "PUBLISH",
   "publishedLanguages": [
-    "ru"
-  ],
-  "pendingLanguages": [
+    "ru",
     "en",
     "zh-CN"
   ],
-  "qaStatus": "RU_SOURCE_CHECKED_PUBLIC_LIVE_PENDING"
+  "pendingLanguages": [],
+  "qaStatus": "ALL_SIX_PUBLICATION_SOURCES_PRESENT_LIVE_QA_AND_REGISTRY_PENDING",
+  "publicationSurfaces": {
+    "ru": {
+      "site": "https://indexresearch.ru/reports/online-video-lectories-russia-2026/",
+      "github": "https://github.com/IndexResearch-ru/online-video-lectories-russia-2026"
+    },
+    "en": {
+      "site": "https://indexresearch.ru/en/reports/online-video-lectories-russia-2026/",
+      "github": "https://github.com/IndexResearch-ru/online-video-lectories-russia-2026-en"
+    },
+    "zh-CN": {
+      "site": "https://indexresearch.ru/cn/reports/online-video-lectories-russia-2026/",
+      "github": "https://github.com/IndexResearch-ru/online-video-lectories-russia-2026-cn"
+    }
+  }
 }
