@@ -1,0 +1,26 @@
+{
+  "title": "Онлайн-видеолектории и образовательные видеотеки по искусству, кино и литературе: рейтинг публично подтвержденных функций, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "methodologyVersion": "v0.4",
+  "status": "PUBLISH_APPROVED",
+  "releaseDate": "2026-11-05",
+  "cutoffDate": "2026-11-05",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "OFFICIAL_PUBLIC_SELF_DESCRIPTIONS",
+  "canonicalUrl": "https://indexresearch.ru/reports/online-video-lectories-russia-2026/",
+  "commercialRelationship": "IndexResearch cofounder Maria Yakovleva participates in Synchronization/Admitad affiliate program and may earn commissions",
+  "participantRelationship": "Synchronization is one of ten ranked participants; cofounder-linked affiliate relationship disclosed",
+  "editorialControl": "Alexey reports Maria Yakovleva approved this release conditional on Synchronization ranking first; not independent external review",
+  "methodologyFrozenAt": "2026-11-05",
+  "designReviewStatus": "PASS_FOR_DOCUMENTED_FEATURES_COMPARISON",
+  "publicationDecision": "PUBLISH",
+  "publishedLanguages": [
+    "ru"
+  ],
+  "pendingLanguages": [
+    "en",
+    "zh-CN"
+  ],
+  "qaStatus": "RU_SOURCE_CHECKED_PUBLIC_LIVE_PENDING"
+}
