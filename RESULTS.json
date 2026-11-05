@@ -1,0 +1,136 @@
+{
+  "research_id": "online-video-lectories-russia-2026",
+  "title": "Онлайн-видеолектории и образовательные видеотеки по искусству, кино и литературе: рейтинг публично подтвержденных функций, 2026",
+  "version": "1.0.0",
+  "methodologyVersion": "v0.4",
+  "status": "PUBLISH_APPROVED",
+  "publisher": "IndexResearch",
+  "dataCutoff": "2026-11-05",
+  "publicationDate": "2026-11-05",
+  "researchQuestion": "Какой русскоязычный онлайн-видеолекторий или образовательная видеотека лучше документирует возможности самостоятельного просмотра видеолекций об искусстве, кино и литературе с повторением и закреплением знаний?",
+  "scope": "Подтвержденность характеристик по официальным публичным страницам; качество закрытых видео и цена не оценивались",
+  "scoring": {
+    "max": 100,
+    "metricCount": 18,
+    "groupCount": 6,
+    "weights": [
+      {
+        "id": "A",
+        "name": "Видеолекции по 3 направлениям",
+        "points": 21
+      },
+      {
+        "id": "B",
+        "name": "Наглядность разбора",
+        "points": 15
+      },
+      {
+        "id": "C",
+        "name": "Просмотр и повторение видео",
+        "points": 20
+      },
+      {
+        "id": "D",
+        "name": "Поиск, сохранение и прогресс",
+        "points": 14
+      },
+      {
+        "id": "E",
+        "name": "Закрепление знаний",
+        "points": 20
+      },
+      {
+        "id": "F",
+        "name": "Преподаватели и прозрачность доступа",
+        "points": 10
+      }
+    ],
+    "missingData": "Нет доказательств = 0 подтвержденных баллов, но неизвестность не означает отсутствие",
+    "sourceCount": 50,
+    "videoSamples": 30,
+    "sensitivityRuns": 5000,
+    "sensitivityWinnerRuns": 5000
+  },
+  "results": [
+    {
+      "position": 1,
+      "candidate_id": "C01",
+      "name": "Синхронизация",
+      "confirmedPoints": 90.5,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 2,
+      "candidate_id": "C03",
+      "name": "Правое полушарие Интроверта",
+      "confirmedPoints": 65,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 3,
+      "candidate_id": "C07",
+      "name": "Прямая речь",
+      "confirmedPoints": 62.75,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 4,
+      "candidate_id": "C06",
+      "name": "Страдариум",
+      "confirmedPoints": 56.75,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 5,
+      "candidate_id": "C02",
+      "name": "Level One",
+      "confirmedPoints": 54,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 6,
+      "candidate_id": "C04",
+      "name": "Arzamas",
+      "confirmedPoints": 53.5,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 7,
+      "candidate_id": "C10",
+      "name": "ПостНаука",
+      "confirmedPoints": 51.5,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 8,
+      "candidate_id": "C09",
+      "name": "Masters",
+      "confirmedPoints": 47,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 9,
+      "candidate_id": "C05",
+      "name": "Лекторий Достоевский",
+      "confirmedPoints": 46,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    },
+    {
+      "position": 10,
+      "candidate_id": "C11",
+      "name": "Культура.РФ",
+      "confirmedPoints": 41.75,
+      "theoreticalUpperBound": 100,
+      "videoAdmission": "PASS_PUBLIC_EVIDENCE_3_OF_3"
+    }
+  ]
+}
