@@ -21,7 +21,7 @@
     "zh-CN"
   ],
   "pendingLanguages": [],
-  "qaStatus": "ALL_SIX_PUBLICATION_SOURCES_PRESENT_LIVE_QA_AND_REGISTRY_PENDING",
+  "qaStatus": "SOURCE_QA_CI_AND_LIVE_REGISTRY_DONE_BROWSER_MOBILE_REDIRECT_QA_PENDING",
   "publicationSurfaces": {
     "ru": {
       "site": "https://indexresearch.ru/reports/online-video-lectories-russia-2026/",
